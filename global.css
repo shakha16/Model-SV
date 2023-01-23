@@ -1,0 +1,23 @@
+:root{
+    --heading1: 62px;
+    --heading2: 48px;
+    --heading3: 39px;
+    --heading4: 31px;
+    --heading5: 24px;
+    --heading6: 16px;
+
+    --black: #000000;
+    --white: #ffffff;
+    --title: #11142D;
+    --body1: #92929D;
+    --body2: #9A9AB0;
+
+    --text-purple: #FA3C45;
+    --text-white: #ffffff;
+
+    --primary-color85: #C5010A;
+    --primary-color70: #FA3C45;
+    --primary-color50: #FD5C64;
+    --primary-color30: #FB777D;
+    --primary-color10: #FDE5E6;
+}
